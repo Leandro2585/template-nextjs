@@ -99,7 +99,7 @@ The following tools were used in the construction of the project:
 ##  Author
 
 <a href="https://github.com/Leandro2585">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/49343139?s=460&u=56b59618079de8c4b47b717841307605c4eb74f8&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Leandro Real</b></sub></a> <a href="https://github.com/Leandro2585" title="Leandro">🚀</a>
  <br />
