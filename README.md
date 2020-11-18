@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="center">
-	🚧  Template NextJS :node.js Concluded 🚀 🚧
+  🚧  Template NextJS ⚙️ Finalized 🚀 🚧
 </h4>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## 💻 About the project
 
-♻️ Template NextJS - is a way to speed up the process of creating a new project, with this template you skip the initial stages of standardized libs installations and are already ready to go to development, so it speeds up the programmer's work to a great extent.
+Template NextJS - is a way to speed up the process of creating a new project, with this template you skip the initial stages of standardized libs installations and are already ready to go to development, so it speeds up the programmer's work to a great extent.
 
 ---
 
