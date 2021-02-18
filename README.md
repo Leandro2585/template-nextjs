@@ -52,7 +52,7 @@ Besides, it is good to have an editor to work with the code like [VSCode](https:
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:Leandro2585/template-nextjs.git
+$ git clone https://github.com/Leandro2585/template-nextjs.git
 
 # Go to server folder
 $ cd template-nextjs
